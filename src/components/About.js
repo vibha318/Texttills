@@ -111,6 +111,7 @@ export default function About() {
       </div>
       <div className="container my-3">
   <button onClick={toggleStyle} type="button" className="btn btn-primary">{btntext}</button>
+  <button onClick={toggleStyle} type="button" className="btn btn-primary">{btntext}</button>
 </div>
 
     </div>
